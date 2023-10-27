@@ -1,4 +1,6 @@
-![alt text](https://pin.it/2ObhX8I)
+SIRIUS IS ON TOP
+
+
 <h1>cam hack v3.0</h1>                                                 
 <p>Using cam hack tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
@@ -9,15 +11,14 @@
 <h3 style="text-align: left;"><span style="font-family: arial;">Installation & Usage</h3>
 
 ```bash 
-git clone https://github.com/kinghacker0/WishFish
-cd WishFish && bash wishfish.sh 
+https://github.com/N3zh6/cam-hack.git
+cd cam-hack && bash wishfish.sh 
 ```
  
 Note: Now turn your device hotspot before using it
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
- Our Website :-www.hackersking.in
 <h4>Note :- If victim open this url in chrome or android inbuilt browser then it can access victim camera by allowing permissions and send snap to you.
 </h4>
 
